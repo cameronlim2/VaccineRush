@@ -1,0 +1,1 @@
+javac vaccineRush\VaccineRush.java
